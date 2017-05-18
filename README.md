@@ -1,6 +1,6 @@
 # README
 
-JDStore
+JDStore-1
 application up and running.
 
 Things you may want to cover:
